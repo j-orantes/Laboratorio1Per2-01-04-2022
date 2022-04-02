@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Laboratorio 1 Per2 Prog Obj 1 01-04-2022", "Laboratorio 1 Per2 Prog Obj 1 01-04-2022\Laboratorio 1 Per2 Prog Obj 1 01-04-2022.vbproj", "{179C8D4F-C6B7-413D-A4FD-605B24D9CD2D}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Practicapersonal3", "..\..\Práctica\Practicapersonal3\Practicapersonal3\Practicapersonal3.vbproj", "{44045217-9E84-42B6-8274-F9E3654A30FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{179C8D4F-C6B7-413D-A4FD-605B24D9CD2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{179C8D4F-C6B7-413D-A4FD-605B24D9CD2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{179C8D4F-C6B7-413D-A4FD-605B24D9CD2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{179C8D4F-C6B7-413D-A4FD-605B24D9CD2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44045217-9E84-42B6-8274-F9E3654A30FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44045217-9E84-42B6-8274-F9E3654A30FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44045217-9E84-42B6-8274-F9E3654A30FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44045217-9E84-42B6-8274-F9E3654A30FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81FA5F5B-9A72-4440-BE88-F558693373B3}
+	EndGlobalSection
+EndGlobal
